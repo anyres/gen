@@ -19,7 +19,7 @@ $ npm install -g @anyres/gen
 $ gen COMMAND
 running command...
 $ gen (-v|--version|version)
-@anyres/gen/0.0.0 win32-x64 node-v8.11.3
+@anyres/gen/0.1.0 win32-x64 node-v8.11.3
 $ gen --help [COMMAND]
 USAGE
   $ gen COMMAND
@@ -67,7 +67,7 @@ EXAMPLE
   success write to tmp/user/User.service.ts
 ```
 
-_See code: [src\commands\ng-ngrx.ts](https://github.com/anyres/gen/blob/v0.0.0/src\commands\ng-ngrx.ts)_
+_See code: [src\commands\ng-ngrx.ts](https://github.com/anyres/gen/blob/v0.1.0/src\commands\ng-ngrx.ts)_
 
 ## `gen ng-service`
 
@@ -87,5 +87,5 @@ EXAMPLE
   success write to tmp/user/User.service.ts
 ```
 
-_See code: [src\commands\ng-service.ts](https://github.com/anyres/gen/blob/v0.0.0/src\commands\ng-service.ts)_
+_See code: [src\commands\ng-service.ts](https://github.com/anyres/gen/blob/v0.1.0/src\commands\ng-service.ts)_
 <!-- commandsstop -->
